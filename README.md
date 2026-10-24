@@ -10,10 +10,10 @@ KMV format is like this:
 - Terminators (10 2E bytes)
 - MP4 data
 
-## This repository contains KAD (Kitten AuDio)
+## This repository contains KAD
 
 **What is KAD?**
-It's a new audio file format **(not really)** called KAD.
+It's a new audio file format **(not really)** called KAD (Kitten AuDio).
 
 **How it works?**
 
