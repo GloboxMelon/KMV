@@ -13,7 +13,7 @@ KMV format is like this:
 ## This repository contains KAD (Kitten AuDio)
 
 **What is KAD?**
-It's a new audio file format **(not really)** called KAD (Kitten AuDio).
+It's a new audio file format **(not really)** called KAD.
 
 **How it works?**
 
